@@ -3,7 +3,7 @@ import axios from "axios";
 
 // Thunk to fetch all player details
 export const fetchPlayers = createAsyncThunk("players/fetch", async () => {
-  const response = await axios.get("http://localhost:4000/players");
+  const response = await axios.get("https://grateful-sticky-puck.glitch.me/players");
   return response.data;
 });
 
@@ -11,7 +11,7 @@ export const fetchPlayers = createAsyncThunk("players/fetch", async () => {
 export const fetchPlayerById = createAsyncThunk(
   "players/fetchById",
   async (id) => {
-    const response = await axios.get(`http://localhost:4000/players/${id}`);
+    const response = await axios.get(`https://grateful-sticky-puck.glitch.me/players/${id}`);
     return response.data;
   }
 );
