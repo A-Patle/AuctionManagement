@@ -1,0 +1,244 @@
+{
+	"players": [
+		{
+			"id": "1",
+			"name": "Dhawan",
+			"category": "Batsman",
+			"country": "India",
+			"auctionprice": "3000000",
+			"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170660/shikhar-dhawan.jpg"
+		},
+		{
+			"id": "2",
+			"name": "Dhoni",
+			"category": "Keeper Batsman",
+			"country": "India",
+			"auctionprice": "9000000",
+			"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170677/ms-dhoni.jpg"
+		},
+		{
+			"id": "3",
+			"name": "Virat",
+			"category": "Batsman",
+			"country": "India",
+			"auctionprice": "7000000",
+			"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170661/virat-kohli.jpg"
+		},
+		{
+			"id": "4",
+			"name": "Shami",
+			"category": "Bowler",
+			"country": "India",
+			"auctionprice": "4000000",
+			"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170684/mohammed-shami.jpg"
+		},
+		{
+			"id": "5",
+			"name": "Chahal",
+			"category": "Bowler",
+			"country": "India",
+			"auctionprice": "5000000",
+			"image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170690/yuzvendra-chahal.jpg"
+		},
+		{
+			"id": "6",
+			"name": "Rohit",
+			"category": "Batsman",
+			"country": "India",
+			"auctionprice": "7500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352478/rohit-sharma.jpg"
+		},
+		{
+			"id": "7",
+			"name": "Jadeja",
+			"category": "All-rounder",
+			"country": "India",
+			"auctionprice": "6500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352483/ravindra-jadeja.jpg"
+		},
+		{
+			"id": "8",
+			"name": "Smith",
+			"category": "Batsman",
+			"country": "Australia",
+			"auctionprice": "8500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352448/steven-smith.jpg"
+		},
+		{
+			"id": "9",
+			"name": "Warner",
+			"category": "Batsman",
+			"country": "Australia",
+			"auctionprice": "8000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352449/david-warner.jpg"
+		},
+		{
+			"id": "10",
+			"name": "Cummins",
+			"category": "Bowler",
+			"country": "Australia",
+			"auctionprice": "6500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352460/pat-cummins.jpg"
+		},
+		{
+			"id": "11",
+			"name": "Maxwell",
+			"category": "All-rounder",
+			"country": "Australia",
+			"auctionprice": "6000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352454/glenn-maxwell.jpg"
+		},
+		{
+			"id": "12",
+			"name": "Starc",
+			"category": "Bowler",
+			"country": "Australia",
+			"auctionprice": "7000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c352462/mitchell-starc.jpg"
+		},
+		{
+			"id": "13",
+			"name": "De Kock",
+			"category": "Keeper Batsman",
+			"country": "South Africa",
+			"auctionprice": "7500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351836/quinton-de-kock.jpg"
+		},
+		{
+			"id": "14",
+			"name": "Rabada",
+			"category": "Bowler",
+			"country": "South Africa",
+			"auctionprice": "6000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c537822/kagiso-rabada.jpg"
+		},
+		{
+			"id": "15",
+			"name": "Faf du Plessis",
+			"category": "Batsman",
+			"country": "South Africa",
+			"auctionprice": "7000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg"
+		},
+		{
+			"id": "16",
+			"name": "Miller",
+			"category": "Batsman",
+			"country": "South Africa",
+			"auctionprice": "5500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351831/david-miller.jpg"
+		},
+		{
+			"id": "17",
+			"name": "Ngidi",
+			"category": "Bowler",
+			"country": "South Africa",
+			"auctionprice": "5000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c537833/lungi-ngidi.jpg"
+		},
+		{
+			"id": "18",
+			"name": "Buttler",
+			"category": "Keeper Batsman",
+			"country": "England",
+			"auctionprice": "8000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351850/jos-buttler.jpg"
+		},
+		{
+			"id": "19",
+			"name": "Stokes",
+			"category": "All-rounder",
+			"country": "England",
+			"auctionprice": "8500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351568/ben-stokes.jpg"
+		},
+		{
+			"id": "20",
+			"name": "Root",
+			"category": "Batsman",
+			"country": "England",
+			"auctionprice": "7500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351574/joe-root.jpg"
+		},
+		{
+			"id": "21",
+			"name": "Archer",
+			"category": "Bowler",
+			"country": "England",
+			"auctionprice": "7000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170970/jofra-archer.jpg"
+		},
+		{
+			"id": "22",
+			"name": "Bairstow",
+			"category": "Keeper Batsman",
+			"country": "England",
+			"auctionprice": "6500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351851/jonny-bairstow.jpg"
+		},
+		{
+			"id": "23",
+			"name": "Williamson",
+			"category": "Batsman",
+			"country": "New Zealand",
+			"auctionprice": "8000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351812/kane-williamson.jpg"
+		},
+		{
+			"id": "24",
+			"name": "Boult",
+			"category": "Bowler",
+			"country": "New Zealand",
+			"auctionprice": "6500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351612/trent-boult.jpg"
+		},
+		{
+			"id": "25",
+			"name": "Southee",
+			"category": "Bowler",
+			"country": "New Zealand",
+			"auctionprice": "6000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351797/tim-southee.jpg"
+		},
+		{
+			"id": "26",
+			"name": "Guptill",
+			"category": "Batsman",
+			"country": "New Zealand",
+			"auctionprice": "5500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c244827/martin-guptill.jpg"
+		},
+		{
+			"id": "27",
+			"name": "Neesham",
+			"category": "All-rounder",
+			"country": "New Zealand",
+			"auctionprice": "5000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351603/james-neesham.jpg"
+		},
+		{
+			"id": "28",
+			"name": "Taylor",
+			"category": "Batsman",
+			"country": "New Zealand",
+			"auctionprice": "5000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c170729/ross-taylor.jpg"
+		},
+		{
+			"id": "29",
+			"name": "Santner",
+			"category": "All-rounder",
+			"country": "New Zealand",
+			"auctionprice": "4500000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c351608/mitchell-santner.jpg"
+		},
+		{
+			"id": "30",
+			"name": "Jamieson",
+			"category": "Bowler",
+			"country": "New Zealand",
+			"auctionprice": "4000000",
+			"image": "https://static.cricbuzz.com/a/img/v1/152x152/i1/c156101/kyle-jamieson.jpg"
+		}
+	]
+}

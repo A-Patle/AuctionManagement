@@ -1,0 +1,18 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "Creating rest service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server" :"json-server --watch -p 4000 players-data.json"
+  },
+  "keywords": [
+    "jsonserver"
+  ],
+  "author": "saurabh",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

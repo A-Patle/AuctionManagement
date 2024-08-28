@@ -1,0 +1,58 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f8f9fa;
+  }
+  
+  .home-icon, .cart-icon {
+    font-size: 24px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .player-listing {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .player-card {
+    width: 200px;
+    margin: 30px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .player-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .footer {
+    padding: 10px;
+    text-align: center;
+    background-color: #f8f9fa;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 35px;
+  }
+  
+  .searchbox{
+    padding: 20px 0px 0px 20px;
+    text-align: center;
+    /* background-color: #f8f9fa; */
+    /* position: fixed; */
+    width: 100%;
+    /* bottom: 0; */
+    height: 35px;
+  }
