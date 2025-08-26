@@ -3,7 +3,7 @@ import axios from "axios";
 
 // Thunk to fetch all player details
 export const fetchPlayers = createAsyncThunk("players/fetch", async () => {
-  const response = await axios.get("https://grateful-sticky-puck.glitch.me/players");
+  const response = await axios.get("https://json-server-deploy-w6rw.onrender.com/players");
   return response.data;
 });
 
@@ -11,7 +11,8 @@ export const fetchPlayers = createAsyncThunk("players/fetch", async () => {
 export const fetchPlayerById = createAsyncThunk(
   "players/fetchById",
   async (id) => {
-    const response = await axios.get(`https://grateful-sticky-puck.glitch.me/players/${id}`);
+    const response = await axios.get(`https://json-server-deploy-w6rw.onrender.com/players/${id}`);
     return response.data;
   }
 );
+
